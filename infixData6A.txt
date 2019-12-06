@@ -1,5 +1,5 @@
-a + b * c ^ d + b * a
-a * b + c * d + a ^ b
-a + b * c + d ^ a
-a * b / c * d + a ^ b
-a * b + c / d + a * b
+a + b * c - d ^ c
+a * b / c ^ d * a + d
+a + b ^ c * d / b - a * c
+a - b / c - d + d ^ a + b - c
+a + b * c + d * a / b ^ c - d + a
